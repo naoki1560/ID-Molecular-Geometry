@@ -4,6 +4,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18223828-blue)
 
+https://orcid.org/0009-0002-0823-6109
+* **[`id_tensor.py`](id_tensor.py)**
+* **[`PAPER.md`](PAPER.md)**
 ## Overview
 This repository provides a computational proof of concept for **ID Studies (Informational Deviation Theory)** applied to physical chemistry and molecular geometry. 
 
